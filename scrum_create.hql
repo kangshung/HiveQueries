@@ -1,10 +1,3 @@
--- customer: customer_size string , industry      string , zipcode       string
--- employee: additional_info contains information like: hobby, gender, uses social benefits card provided by our company to go to the gym
--- Done: Customer, employee, sprint_retrospective, main_technology(!), project, sprint, task, time
-
-create database scrum;
-use scrum;
-
 CREATE TABLE dim_customer
 (
  ID_customer   integer ,
