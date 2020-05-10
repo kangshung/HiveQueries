@@ -1,0 +1,17 @@
+1,long,good,all
+2,short,good,all
+3,short,bad,most
+4,short,good,most
+5,short,good,some
+6,short,good,some
+7,medium,bad,most
+8,medium,bad,all
+9,medium,bad,all
+10,medium,good,all
+11,short,good,all
+12,long,good,most
+13,short,good,most
+14,short,good,all
+15,short,good,some
+16,short,good,all
+17,short,good,some

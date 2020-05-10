@@ -1,0 +1,12 @@
+1,Sonya Smith,middle-aged,senior,Product Owner,city#Mansfield$state#Ohio$gender#female$hobby#hunting,1
+2,Maksymilian Operlejn,young,senior,Product Owner,city#Gdansk$state#pomorskie$gender#male$hobby#fishing,2
+3,Patrick Fletcher,old,senior,Programmer,city#Manchester$gender#male$hobby#hunting,1
+4,Roland Alston,young,junior,Programmer,city#Crescent City$state#California$gender#male$hobby#swimming,1
+5,Gary Smith,old,mid,Programmer,city#Zwingle$state#Iowa$gender#male$hobby#stamp collecting,2
+6,Jonathan Trottier,middle-aged,junior,Programmer,city#Dothan$state#Alabama$hobby#Woodworking,2
+7,Meghan Neese,young,mid,Programmer,gender#female$hobby#swimming,2
+8,Jeremiah Schrupp,middle-aged,mid,Scrum Master,city#Gdansk$state#pomorskie$gender#male$hobby#hunting,1
+9,Laura Burkett,young,senior,Programmer,gender#female$hobby#swimming,2
+10,Steve Burkett,middle-aged,junior,Programmer,city#New York$gender#female$hobby#swimming,2
+11,Laura Brown,young,senior,Programmer,city#New York$gender#female$hobby#swimming,2
+12,Roland Trottier,young,mid,Scrum Master,city#New York$gender#female$hobby#swimming,2

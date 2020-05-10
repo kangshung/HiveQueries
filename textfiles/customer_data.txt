@@ -1,0 +1,4 @@
+1,Intel,Company_size#Huge$industry#semiconductors
+2,Dummy_client,Company_size#Small$industry#dummy$zip-code#123-45
+3,Arrow,Company_size#Big$industry#CCC$zip-code#54-321
+4,Boeing,Company_size#Big$industry#aviation$zip-code#67-987$owner#Dennis Muilenburg

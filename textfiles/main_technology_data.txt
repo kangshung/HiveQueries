@@ -1,0 +1,6 @@
+1,Tableau,Visualization,easy,cheap
+2,Python,Language,easy,cheap
+3,R,Language,difficult,expensive
+4,Hive,Hadoop,medium,cheap
+5,Power BI,Visualization,easy,expensive
+6,Pig,Hadoop,difficult,cheap
